@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		170EB8EF21125C34001E175E /* screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8EE21125C34001E175E /* screen.jpg */; };
 		1724F210211308A600970AE5 /* spiral.dae in Resources */ = {isa = PBXBuildFile; fileRef = 1724F20F211308A600970AE5 /* spiral.dae */; };
+		1724F2142113303B00970AE5 /* stairs.dae in Resources */ = {isa = PBXBuildFile; fileRef = 1724F2132113303B00970AE5 /* stairs.dae */; };
+		1724F21621133ABD00970AE5 /* tube.dae in Resources */ = {isa = PBXBuildFile; fileRef = 1724F21521133ABD00970AE5 /* tube.dae */; };
 		638A9CEE1FBA0605001D52ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638A9CED1FBA0605001D52ED /* AppDelegate.swift */; };
 		638A9CF01FBA0605001D52ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638A9CEF1FBA0605001D52ED /* ViewController.swift */; };
 		638A9CF31FBA0605001D52ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638A9CF11FBA0605001D52ED /* Main.storyboard */; };
@@ -20,6 +22,8 @@
 /* Begin PBXFileReference section */
 		170EB8EE21125C34001E175E /* screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = screen.jpg; path = ../../Desktop/screen.jpg; sourceTree = "<group>"; };
 		1724F20F211308A600970AE5 /* spiral.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = spiral.dae; path = ../../../../Desktop/spiral.dae; sourceTree = "<group>"; };
+		1724F2132113303B00970AE5 /* stairs.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = stairs.dae; path = ../../../../Desktop/stairs.dae; sourceTree = "<group>"; };
+		1724F21521133ABD00970AE5 /* tube.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = tube.dae; sourceTree = "<group>"; };
 		1762A488210F53010073BC84 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		638A9CEA1FBA0605001D52ED /* ARKitDemoFromBlenderToRealWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitDemoFromBlenderToRealWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		638A9CED1FBA0605001D52ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +82,8 @@
 			isa = PBXGroup;
 			children = (
 				1724F20F211308A600970AE5 /* spiral.dae */,
+				1724F21521133ABD00970AE5 /* tube.dae */,
+				1724F2132113303B00970AE5 /* stairs.dae */,
 				638A9D001FBA065D001D52ED /* models.scn */,
 			);
 			path = assets;
@@ -142,11 +148,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1724F21621133ABD00970AE5 /* tube.dae in Resources */,
 				638A9CF81FBA0605001D52ED /* LaunchScreen.storyboard in Resources */,
 				1724F210211308A600970AE5 /* spiral.dae in Resources */,
 				638A9CF51FBA0605001D52ED /* Assets.xcassets in Resources */,
 				170EB8EF21125C34001E175E /* screen.jpg in Resources */,
 				638A9D021FBA065D001D52ED /* models.scn in Resources */,
+				1724F2142113303B00970AE5 /* stairs.dae in Resources */,
 				638A9CF31FBA0605001D52ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
