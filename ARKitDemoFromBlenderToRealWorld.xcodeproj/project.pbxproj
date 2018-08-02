@@ -7,36 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		170EB8B7211055A2001E175E /* ore.OBJ in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B2211055A1001E175E /* ore.OBJ */; };
-		170EB8B8211055A2001E175E /* ORE__occlusion.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B3211055A1001E175E /* ORE__occlusion.png */; };
-		170EB8B9211055A2001E175E /* ore.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B4211055A1001E175E /* ore.mtl */; };
-		170EB8BA211055A2001E175E /* ORE__vcols.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B5211055A1001E175E /* ORE__vcols.png */; };
-		170EB8BB211055A2001E175E /* defaultMat_Normal_DirectX.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B6211055A2001E175E /* defaultMat_Normal_DirectX.png */; };
-		170EB8E72111E423001E175E /* spiral.dae in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8E62111E423001E175E /* spiral.dae */; };
-		170EB8ED2111FB03001E175E /* spiral 2.dae in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8EC2111FB03001E175E /* spiral 2.dae */; };
 		170EB8EF21125C34001E175E /* screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8EE21125C34001E175E /* screen.jpg */; };
-		1762A483210F3DF50073BC84 /* palm.png in Resources */ = {isa = PBXBuildFile; fileRef = 1762A480210F3DF40073BC84 /* palm.png */; };
-		1762A485210F3DF50073BC84 /* palm.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1762A482210F3DF50073BC84 /* palm.obj */; };
+		1724F210211308A600970AE5 /* spiral.dae in Resources */ = {isa = PBXBuildFile; fileRef = 1724F20F211308A600970AE5 /* spiral.dae */; };
 		638A9CEE1FBA0605001D52ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638A9CED1FBA0605001D52ED /* AppDelegate.swift */; };
 		638A9CF01FBA0605001D52ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638A9CEF1FBA0605001D52ED /* ViewController.swift */; };
 		638A9CF31FBA0605001D52ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638A9CF11FBA0605001D52ED /* Main.storyboard */; };
 		638A9CF51FBA0605001D52ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638A9CF41FBA0605001D52ED /* Assets.xcassets */; };
 		638A9CF81FBA0605001D52ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638A9CF61FBA0605001D52ED /* LaunchScreen.storyboard */; };
 		638A9D021FBA065D001D52ED /* models.scn in Resources */ = {isa = PBXBuildFile; fileRef = 638A9D001FBA065D001D52ED /* models.scn */; };
-		638A9D031FBA065D001D52ED /* ship.png in Resources */ = {isa = PBXBuildFile; fileRef = 638A9D011FBA065D001D52ED /* ship.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		170EB8B2211055A1001E175E /* ore.OBJ */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ore.OBJ; path = "../../../../Downloads/stone-ore-free/source/ore/ore.OBJ"; sourceTree = "<group>"; };
-		170EB8B3211055A1001E175E /* ORE__occlusion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ORE__occlusion.png; path = "../../../../Downloads/stone-ore-free/source/ore/ORE__occlusion.png"; sourceTree = "<group>"; };
-		170EB8B4211055A1001E175E /* ore.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ore.mtl; path = "../../../../Downloads/stone-ore-free/source/ore/ore.mtl"; sourceTree = "<group>"; };
-		170EB8B5211055A1001E175E /* ORE__vcols.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ORE__vcols.png; path = "../../../../Downloads/stone-ore-free/source/ore/ORE__vcols.png"; sourceTree = "<group>"; };
-		170EB8B6211055A2001E175E /* defaultMat_Normal_DirectX.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = defaultMat_Normal_DirectX.png; path = "../../../../Downloads/stone-ore-free/source/ore/defaultMat_Normal_DirectX.png"; sourceTree = "<group>"; };
-		170EB8E62111E423001E175E /* spiral.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = spiral.dae; path = ../../../../Desktop/spiral.dae; sourceTree = "<group>"; };
-		170EB8EC2111FB03001E175E /* spiral 2.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = "spiral 2.dae"; path = "../../../../Desktop/spiral 2.dae"; sourceTree = "<group>"; };
 		170EB8EE21125C34001E175E /* screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = screen.jpg; path = ../../Desktop/screen.jpg; sourceTree = "<group>"; };
-		1762A480210F3DF40073BC84 /* palm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palm.png; sourceTree = "<group>"; };
-		1762A482210F3DF50073BC84 /* palm.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = palm.obj; sourceTree = "<group>"; };
+		1724F20F211308A600970AE5 /* spiral.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = spiral.dae; path = ../../../../Desktop/spiral.dae; sourceTree = "<group>"; };
 		1762A488210F53010073BC84 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		638A9CEA1FBA0605001D52ED /* ARKitDemoFromBlenderToRealWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitDemoFromBlenderToRealWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		638A9CED1FBA0605001D52ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +29,6 @@
 		638A9CF71FBA0605001D52ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		638A9CF91FBA0605001D52ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		638A9D001FBA065D001D52ED /* models.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = models.scn; sourceTree = "<group>"; };
-		638A9D011FBA065D001D52ED /* ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ship.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,16 +77,7 @@
 		638A9CFF1FBA0650001D52ED /* assets */ = {
 			isa = PBXGroup;
 			children = (
-				638A9D011FBA065D001D52ED /* ship.png */,
-				1762A480210F3DF40073BC84 /* palm.png */,
-				170EB8B6211055A2001E175E /* defaultMat_Normal_DirectX.png */,
-				170EB8B3211055A1001E175E /* ORE__occlusion.png */,
-				170EB8EC2111FB03001E175E /* spiral 2.dae */,
-				170EB8E62111E423001E175E /* spiral.dae */,
-				170EB8B5211055A1001E175E /* ORE__vcols.png */,
-				170EB8B4211055A1001E175E /* ore.mtl */,
-				170EB8B2211055A1001E175E /* ore.OBJ */,
-				1762A482210F3DF50073BC84 /* palm.obj */,
+				1724F20F211308A600970AE5 /* spiral.dae */,
 				638A9D001FBA065D001D52ED /* models.scn */,
 			);
 			path = assets;
@@ -170,19 +143,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				638A9CF81FBA0605001D52ED /* LaunchScreen.storyboard in Resources */,
-				638A9D031FBA065D001D52ED /* ship.png in Resources */,
+				1724F210211308A600970AE5 /* spiral.dae in Resources */,
 				638A9CF51FBA0605001D52ED /* Assets.xcassets in Resources */,
-				170EB8E72111E423001E175E /* spiral.dae in Resources */,
-				170EB8B7211055A2001E175E /* ore.OBJ in Resources */,
-				170EB8B8211055A2001E175E /* ORE__occlusion.png in Resources */,
-				1762A483210F3DF50073BC84 /* palm.png in Resources */,
 				170EB8EF21125C34001E175E /* screen.jpg in Resources */,
-				170EB8ED2111FB03001E175E /* spiral 2.dae in Resources */,
-				1762A485210F3DF50073BC84 /* palm.obj in Resources */,
-				170EB8BA211055A2001E175E /* ORE__vcols.png in Resources */,
-				170EB8BB211055A2001E175E /* defaultMat_Normal_DirectX.png in Resources */,
 				638A9D021FBA065D001D52ED /* models.scn in Resources */,
-				170EB8B9211055A2001E175E /* ore.mtl in Resources */,
 				638A9CF31FBA0605001D52ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
